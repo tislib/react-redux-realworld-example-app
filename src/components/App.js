@@ -54,7 +54,7 @@ class App extends React.Component {
         <div>
           <Header
             appName={this.props.appName}
-            currentUser={this.props.currentUser} />
+            currentUser={this.props.currentUser} /> asdf asdf asdf
             <Switch>
             <Route exact path="/" component={Home}/>
             <Route path="/login" component={Login} />
